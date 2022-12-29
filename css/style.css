@@ -1,0 +1,15 @@
+.wrapper{
+	width:60%;
+	margin: 0 auto;
+	border:5px solid #darkgoldenrod;
+}
+
+label{
+	font-size: 20px;
+}
+.first_name .last_name{
+	width: 90%;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px;
+}
